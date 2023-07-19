@@ -20,6 +20,6 @@
     "noUnusedParameters": true,
     "noFallthroughCasesInSwitch": true
   },
-  "include": ["src", "vitest-setup.ts", "cypress.config.ts"],
+  "include": ["src", "cypress", "vitest-setup.ts"],
   "references": [{ "path": "./tsconfig.node.json" }]
 }
